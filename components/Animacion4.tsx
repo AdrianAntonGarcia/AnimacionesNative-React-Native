@@ -19,7 +19,7 @@ export const Animacion4: React.FC = () => {
   };
   return (
     <View>
-      <Animated.View style={[styles.texto, estiloAnimacion]}></Animated.View>
+      <Animated.View style={[styles.texto, estiloAnimacion]} />
     </View>
   );
 };
