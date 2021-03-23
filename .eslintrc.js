@@ -9,5 +9,6 @@ module.exports = {
       },
     ],
     'sort-imports': 'error',
+    'no-inline-styles': 0,
   },
 };
